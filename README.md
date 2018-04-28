@@ -74,12 +74,12 @@ Microsoft Windows 10 (in 32-bit mode)
 * Microsoft Windows 10 [Version 10.0.16299.248]
 
 ## Authors
-* **Frank Mejzlik** - [Website](http://frankmejzlik.com/) 
+* **devWeSp** - [Website](http://www.devWeSp.com/) 
 
 ## License
 MIT License
 
-Copyright (c) 2018 Frank Mejzlik
+Copyright (c) 2018 devWeSp
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
